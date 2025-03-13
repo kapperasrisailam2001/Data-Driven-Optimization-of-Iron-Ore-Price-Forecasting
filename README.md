@@ -36,7 +36,7 @@ We are using a combination of **publicly available and synthetic data** to simul
 ## 🚀 How to Run
 1. **Clone the repository:**
    ```bash
-   git https://github.com/kapperasrisailam2001/iron_price_forecasting.git
+   git https://github.com/kapperasrisailam2001/Data-Driven-Optimization-of-Iron-Ore-Price-Forecasting
    ```
 2. **Navigate to the project folder:**
    ```bash
